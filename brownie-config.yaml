@@ -1,0 +1,28 @@
+dependencies:
+ - OpenZeppelin/openzeppelin-contracts@4.6.0
+compiler:
+ solc:
+  remappings:
+    - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.6.0'
+dotenv: .env
+wallets:
+  from_key: ${PRIVATE_KEY}
+  from_key2: ${PRIVATE_KEY2}
+  from_key3: ${PRIVATE_KEY3}
+  from_key4: ${PRIVATE_KEY4}
+  from_key5: ${PRIVATE_KEY5}
+  from_key6: ${PRIVATE_KEY6}
+  from_key7: ${PRIVATE_KEY7}
+  from_key8: ${PRIVATE_KEY8}
+  from_key9: ${PRIVATE_KEY9}
+  from_key10: ${PRIVATE_KEY10}
+  from_key11: ${PRIVATE_KEY11}
+  from_key12: ${PRIVATE_KEY12}
+  from_key13: ${PRIVATE_KEY13}
+  from_key14: ${PRIVATE_KEY14}
+  from_key15: ${PRIVATE_KEY15}
+  from_key16: ${PRIVATE_KEY16}
+  from_key17: ${PRIVATE_KEY17}
+  from_key18: ${PRIVATE_KEY18}
+  from_key19: ${PRIVATE_KEY19}
+  from_key20: ${PRIVATE_KEY20}
